@@ -54,7 +54,7 @@ export default function Footer() {
                     Güngören / İstanbul
                   </p>
               <p>
-                bilgi@dsninsaat.com<br />
+                info@dsninsaat.com<br />
                 0(534) 763 9961
               </p>
             </div>
